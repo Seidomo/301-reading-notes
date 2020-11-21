@@ -1,7 +1,7 @@
 # READING NOTES
 
 
-- [HOME](https://seidomo.github.io/301-reading-notes/home)
+ - [**Home**](https://seidomo.github.io/reading_notes/home) 
 
 
 - [**class 01**](https://seidomo.github.io/301-reading-notes/class01)
