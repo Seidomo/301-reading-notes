@@ -1,5 +1,8 @@
 # JQUERY
 
+**ATTRIBUTION**
+- JavaScript and jQuery book by Jon Duckett
+
 jQuery offers a simple way to achieve a variety of common
 JavaScript tasks quickly and consistently, across all major
 browsers and without any fallback code needed. 

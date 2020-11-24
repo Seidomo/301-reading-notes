@@ -1,5 +1,11 @@
 # RESPONSIVE WEB DESIGN and FLOATS
 
+**ATTRIBUTION**
+
+- [Shay Howe’s intro to RWD](https://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
+- [All About Floats](https://css-tricks.com/all-about-floats/)
+
+
 ## **Responsive Web Design**
 
  With the growth in mobile Internet usage comes the question of how to build websites suitable for all users. The industry response to this question has become responsive web design, also known as rwd.
