@@ -1,5 +1,9 @@
 # CSS GRID
 
+*attribution*
+
+- [CSS Grid Reference](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
 - CSS Grid Layout is the most powerful layout system available in CSS
   It is a two dimensional meaning it can handle both coloms and rows.
 
