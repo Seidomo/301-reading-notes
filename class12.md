@@ -7,7 +7,7 @@ ejs partials is a way that we use the same HTML page for multiple views.
 Any Javascript or non html syntax you include in the template must always be
 surrounded by ``` <% %> ```.
 
-Example how to create a partial:
+
 
     
 
