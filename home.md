@@ -32,3 +32,5 @@
 
 - [**class 14**](https://seidomo.github.io/301-reading-notes/class14)
 
+- [**class 15**](https://seidomo.github.io/301-reading-notes/class15)
+
