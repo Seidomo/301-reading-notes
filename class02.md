@@ -1,6 +1,9 @@
 #  JQUERY
 
 
+- [**back to home**](https://seidomo.github.io/reading_notes/home)
+
+
 jQuery is a javascript that offers a simple way to achieve a variety of common
 JavaScript tasks quickly and consistently with a moto of write less and do more. 
 
