@@ -16,4 +16,4 @@ Diverse companies can also serve a diverse user better.
 
 * [Reference](https://www.usatoday.com/story/tech/columnist/2015/07/21/why-diversity-matters-your-tech-company/30419871/)
 
-- author Joelle Emerson
+- author Joelle Emerson.
