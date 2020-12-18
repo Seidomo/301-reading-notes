@@ -8,26 +8,26 @@ JavaScript tasks quickly and consistently with a moto of write less and do more.
 
 *basic selectors*
 
-``` * ``` selects all elements
-``` .class ``` selects all elements with a given class
-``` #id ``` selects all elements with a given ID
+- ``` * ``` selects all elements.
+- ``` .class ``` selects all elements with a given class.
+- ``` #id ``` selects all elements with a given ID.
 
 *visibility filters*
 
-``` :hidden ``` selects all elements that are hidden
-``` :visible ``` selects all elements that are visible
+- ``` :hidden ``` selects all elements that are hidden.
+- ``` :visible ``` selects all elements that are visible.
 
 *child filters*
 
-``` :first-child ``` selects all elements that are the first child of the parent
-``` :first-of-type ```selects all elements that are first among siblings of the element
-``` :nth-child() ``` selects all elements that are the nth child of their parent
-``` :nth-of-type() ```selects all elements that are the nth child of their parent in relation to siblings with the same element name
+- ``` :first-child ``` selects all elements that are the first child of the parent.
+- ``` :first-of-type ```selects all elements that are first among siblings of the element.
+- ``` :nth-child() ``` selects all elements that are the nth child of their parent.
+- ``` :nth-of-type() ```selects all elements that are the nth child of their parent in relation to siblings with the same element name.
 
 *Manipulation*
 
-``` .clone() ``` copying content in selected elements
-``` .append() ``` insert content in selected element
+- ``` .clone() ``` copying content in selected elements.
+- ``` .append() ``` insert content in selected element.
 
 ## PAIR PROGRAMMING
 
